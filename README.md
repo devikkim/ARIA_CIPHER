@@ -32,3 +32,7 @@ byte[] encrypted = cipher.encrypt(plain);
 ```java
 byte[] decrypted = cipher.decrypt(encrypted);
 ```
+
+## Author
+
+devikkim, devikkim@gmail.com
